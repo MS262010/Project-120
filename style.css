@@ -1,0 +1,40 @@
+h1{
+    font-family: 'VT323', monospace;
+}
+body{
+text-align: center;
+background-image: linear-gradient(to right,rgb(255, 205, 255),white,rgb(255, 205, 255));
+}
+img{
+    height: 300px;
+}
+#ggl_logo{
+    margin-top: -40px;
+    height:30%
+}
+#versus{
+    margin-top: -40px;
+}
+.btn-primary{
+    width: 12%;
+    height: 6%;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+#test{
+    background-image: linear-gradient(rgb(24, 44, 82), rgb(87, 54, 124));
+    border-radius: 12px;
+    box-shadow: 5px 5px 10px 6px rgb(128, 123, 129);
+    width: 90%;
+    margin-left: 60px;
+    margin-top: 50px;
+    color: white;
+}
+#eg1,#eg2,#eg3,#eg4,#eg5,#eg6,#eg7,#eg8,#eg9{
+    border-radius: 15px;
+    border: 2px white dashed;
+    margin-top: 10px;
+}
+h4{
+    font-family: 'Rajdhani', sans-serif;
+}

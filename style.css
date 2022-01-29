@@ -38,3 +38,14 @@ img{
 h4{
     font-family: 'Rajdhani', sans-serif;
 }
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width:100%;
+    background-color:rgb(54, 20, 49);
+    line-height:2;
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 15px;
+}
